@@ -78,8 +78,4 @@ Make the necessary changes and commit them.
 Push your branch to your forked repository.
 Submit a pull request describing your changes.
 License
-[Insert your license information here]
-
-[Optional: Add any additional sections you feel are necessary, such as FAQs, troubleshooting, or deployment instructions.]
-
-Feel free to customize this README template according to your project's specific requirements and guidelines.
+Apache License 2.0
